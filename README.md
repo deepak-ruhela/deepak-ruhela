@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+🔭 I’m currently working on:
+Full stack applications with Spring Boot and JPA.
+
+👯 I’m looking to collaborate on:
+Fullstack projects
+
+🌱 I’m currently learning:
+MongoDB.
+
+💬 Ask me about:
+Java, JSP, JSTL, Servlets,Thymeleaf, Oracle, JavaScript and any general software development questions.
+
 <!--
 **deepak-ruhela/deepak-ruhela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
